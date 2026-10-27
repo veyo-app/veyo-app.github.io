@@ -1,6 +1,6 @@
 # veyo-app.github.io
 
-Public website for **Veyo: Carousel & Story Maker** (Android, `com.verenou.veyo`), served by GitHub Pages.
+Public website for **MERG: Carousel & Story Maker** (Android, `com.verenou.veyo`), served by GitHub Pages. The app's website is https://merg.life/.
 
 - https://veyo-app.github.io/ (home)
 - https://veyo-app.github.io/privacy/ (Privacy Policy)
